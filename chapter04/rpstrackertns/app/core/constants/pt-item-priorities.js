@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var enums_1 = require("~/core/models/domain/enums");
+exports.PT_ITEM_PRIORITIES = [
+    enums_1.PriorityEnum.Low,
+    enums_1.PriorityEnum.Medium,
+    enums_1.PriorityEnum.High,
+    enums_1.PriorityEnum.Critical
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHQtaXRlbS1wcmlvcml0aWVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsicHQtaXRlbS1wcmlvcml0aWVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsb0RBQTBEO0FBRTdDLFFBQUEsa0JBQWtCLEdBQUc7SUFDaEMsb0JBQVksQ0FBQyxHQUFHO0lBQ2hCLG9CQUFZLENBQUMsTUFBTTtJQUNuQixvQkFBWSxDQUFDLElBQUk7SUFDakIsb0JBQVksQ0FBQyxRQUFRO0NBQ3RCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBQcmlvcml0eUVudW0gfSBmcm9tICd+L2NvcmUvbW9kZWxzL2RvbWFpbi9lbnVtcyc7XG5cbmV4cG9ydCBjb25zdCBQVF9JVEVNX1BSSU9SSVRJRVMgPSBbXG4gIFByaW9yaXR5RW51bS5Mb3csXG4gIFByaW9yaXR5RW51bS5NZWRpdW0sXG4gIFByaW9yaXR5RW51bS5IaWdoLFxuICBQcmlvcml0eUVudW0uQ3JpdGljYWxcbl07XG4iXX0=

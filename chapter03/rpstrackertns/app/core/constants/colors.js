@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var color_1 = require("tns-core-modules/color");
+exports.COLOR_LIGHT = new color_1.Color('#b2b4d3');
+exports.COLOR_DARK = new color_1.Color('#555a97');
+exports.COLOR_GRAY = new color_1.Color('#F9F9F9');
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29sb3JzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiY29sb3JzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsZ0RBQStDO0FBRWxDLFFBQUEsV0FBVyxHQUFHLElBQUksYUFBSyxDQUFDLFNBQVMsQ0FBQyxDQUFDO0FBQ25DLFFBQUEsVUFBVSxHQUFHLElBQUksYUFBSyxDQUFDLFNBQVMsQ0FBQyxDQUFDO0FBQ2xDLFFBQUEsVUFBVSxHQUFHLElBQUksYUFBSyxDQUFDLFNBQVMsQ0FBQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29sb3IgfSBmcm9tICd0bnMtY29yZS1tb2R1bGVzL2NvbG9yJztcblxuZXhwb3J0IGNvbnN0IENPTE9SX0xJR0hUID0gbmV3IENvbG9yKCcjYjJiNGQzJyk7XG5leHBvcnQgY29uc3QgQ09MT1JfREFSSyA9IG5ldyBDb2xvcignIzU1NWE5NycpO1xuZXhwb3J0IGNvbnN0IENPTE9SX0dSQVkgPSBuZXcgQ29sb3IoJyNGOUY5RjknKTtcbiJdfQ==

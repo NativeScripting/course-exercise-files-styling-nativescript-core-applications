@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function toUpdateItemRequest(itemToUpdate) {
+    return {
+        itemToUpdate: itemToUpdate
+    };
+}
+exports.toUpdateItemRequest = toUpdateItemRequest;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXBkYXRlLWl0ZW0ucmVxdWVzdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbInVwZGF0ZS1pdGVtLnJlcXVlc3QudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFNQSxTQUFnQixtQkFBbUIsQ0FBQyxZQUFvQjtJQUN0RCxPQUFPO1FBQ0wsWUFBWSxjQUFBO0tBQ2IsQ0FBQztBQUNKLENBQUM7QUFKRCxrREFJQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFB0SXRlbSB9IGZyb20gJ34vY29yZS9tb2RlbHMvZG9tYWluJztcblxuZXhwb3J0IGludGVyZmFjZSBVcGRhdGVJdGVtUmVxdWVzdCB7XG4gIGl0ZW1Ub1VwZGF0ZTogUHRJdGVtO1xufVxuXG5leHBvcnQgZnVuY3Rpb24gdG9VcGRhdGVJdGVtUmVxdWVzdChpdGVtVG9VcGRhdGU6IFB0SXRlbSk6IFVwZGF0ZUl0ZW1SZXF1ZXN0IHtcbiAgcmV0dXJuIHtcbiAgICBpdGVtVG9VcGRhdGVcbiAgfTtcbn1cbiJdfQ==

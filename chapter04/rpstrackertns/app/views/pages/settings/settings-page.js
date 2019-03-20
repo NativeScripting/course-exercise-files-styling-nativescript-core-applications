@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function onNavigatingTo(args) {
+    if (args.isBackNavigation) {
+        return;
+    }
+    // do your magic!
+}
+exports.onNavigatingTo = onNavigatingTo;
+function onNavBackTap(args) {
+    args.object.page.frame.goBack();
+}
+exports.onNavBackTap = onNavBackTap;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic2V0dGluZ3MtcGFnZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbInNldHRpbmdzLXBhZ2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxTQUFnQixjQUFjLENBQUMsSUFBSTtJQUMvQixJQUFJLElBQUksQ0FBQyxnQkFBZ0IsRUFBRTtRQUN2QixPQUFPO0tBQ1Y7SUFDRCxpQkFBaUI7QUFDckIsQ0FBQztBQUxELHdDQUtDO0FBRUQsU0FBZ0IsWUFBWSxDQUFDLElBQUk7SUFDN0IsSUFBSSxDQUFDLE1BQU0sQ0FBQyxJQUFJLENBQUMsS0FBSyxDQUFDLE1BQU0sRUFBRSxDQUFDO0FBQ3BDLENBQUM7QUFGRCxvQ0FFQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBmdW5jdGlvbiBvbk5hdmlnYXRpbmdUbyhhcmdzKSB7XG4gICAgaWYgKGFyZ3MuaXNCYWNrTmF2aWdhdGlvbikge1xuICAgICAgICByZXR1cm47XG4gICAgfVxuICAgIC8vIGRvIHlvdXIgbWFnaWMhXG59XG5cbmV4cG9ydCBmdW5jdGlvbiBvbk5hdkJhY2tUYXAoYXJncykge1xuICAgIGFyZ3Mub2JqZWN0LnBhZ2UuZnJhbWUuZ29CYWNrKCk7XG59XG4iXX0=
